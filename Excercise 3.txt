@@ -1,0 +1,14 @@
+﻿Faculty of Electrical Engineering, Computer Science and Information Technology Osijek
+Advanced Web Programming
+Task 1.
+
+1. Make a new Laravel installation that will be in the projects directory (https://laravel.com/docs/5.8/installation). The application should have possibility to register new users (users register themselves). Users must be able to log in and log out.
+2. A new migration (https://laravel.com/docs/5.8/migrations) needs to be made for the projects table in which users will keep a record of theirs projects. The project should have the attributes of the project name, project description, project price, done jobs, start date and end date.
+3. Multiple project team members can be added to each project (members thus they are obtained from a list of users who have registered with the application). The project manager will be the person who opened the project.
+4. On his profile, each user sees the projects he has opened (the projects he is in charge of), and projects to which he was added as a member of the project team.
+5. The project manager can modify all data on the project and the project team members only can edit the attribute jobs completed.
+
+Task 2.
+
+Laravel application from Task 1. should be made as multi language (English and Polish). Laravel has multi language possibility:
+https://laravel.com/docs/5.8/localization

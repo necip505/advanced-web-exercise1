@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person>
+        <id>1</id>
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <email>john.doe@example.com</email>
+        <gender>Male</gender>
+        <picture>https://i.pravatar.cc/150?img=11</picture>
+        <resume>Experienced web developer with 5 years in PHP and JS.</resume>
+    </person>
+    <person>
+        <id>2</id>
+        <firstname>Jane</firstname>
+        <lastname>Smith</lastname>
+        <email>jane.smith@example.com</email>
+        <gender>Female</gender>
+        <picture>https://i.pravatar.cc/150?img=5</picture>
+        <resume>Software engineer specializing in backend systems.</resume>
+    </person>
+</people>

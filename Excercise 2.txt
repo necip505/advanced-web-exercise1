@@ -1,0 +1,23 @@
+﻿Faculty of Electrical Engineering, Computer Science and Information Technology Osijek
+Advanced Web Programming
+Task 1.
+
+Create a script that will back up the database (It can be any database, name of database is script parameter), save it to a .txt file and then ZIP the resulting .txt file. The format of the data in the file should be:
+
+INSERT INTO tableNAMe (attribute1, attribute2, attribute3) 
+VALUES ('value1', 'value2', 'value3)";
+
+INSERT INTO nazivTablice (attribute1, attribute2, attribute3) 
+VALUES ('value1', 'value2', 'value3)";
+
+
+
+Task 2.
+
+Create a script that will parse the XML file LV2.xml (File is in attachment). The XML file contains a list of 100 people with information (id, first name, last name, email, gender, picture, resume). From the information obtained make a profile of the person with
+by displaying a picture, first name, last name, email and resume.
+
+
+Task 3.
+
+Create a script that will allow uploading a document or image (pdf, jpeg, png) and encrypting the document using the Mcrypt Library. Only the encrypted document should be uploaded to the server. Create a script which will retrieve all encrypted documents, decrypt them and display links for downloading documents.
